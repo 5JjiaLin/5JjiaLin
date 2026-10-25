@@ -1,15 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="JOBHUNTBOT">
-<defs><linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101A33"/><stop offset="1" stop-color="#1A294D"/></linearGradient><pattern id="p" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#B4C7F6" stroke-width=".5" opacity=".09"/></pattern></defs>
-<rect width="1200" height="310" rx="16" fill="url(#back)"/><rect width="1200" height="310" rx="16" fill="url(#p)"/>
-<rect x="45" y="52" width="4" height="204" rx="2" fill="#F4C46C"/>
-<g font-family="Inter,Arial,sans-serif"><text x="76" y="84" fill="#F4C46C" font-size="15" font-weight="700" letter-spacing="3">03  /  AGENT WORKFLOWS</text><text x="72" y="163" fill="#FFFFFF" font-size="65" font-weight="800" letter-spacing="-2">JOBHUNTBOT</text><text x="76" y="204" fill="#C9D7F1" font-size="21">Research → evidence → applications</text><text x="76" y="264" fill="#8194BB" font-size="14" letter-spacing="2">SANLIANG / SELECTED WORK</text></g>
-<g transform="translate(783 56)">
-  <rect x="28" y="29" width="353" height="175" rx="16" fill="#152743" stroke="#657395"/>
-  <path d="M43 72H365" stroke="#536180"/><circle cx="55" cy="51" r="5" fill="#F4C46C"/><circle cx="74" cy="51" r="5" fill="#6C83BD"/><circle cx="93" cy="51" r="5" fill="#6C83BD"/>
-  <g font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">
-   <rect x="51" y="102" width="86" height="53" rx="10" fill="#37405A" stroke="#F4C46C"/><text x="65" y="134" fill="#FFF">RESEARCH</text>
-   <rect x="163" y="102" width="86" height="53" rx="10" fill="#37405A" stroke="#F4C46C"/><text x="172" y="134" fill="#FFF">EVIDENCE</text>
-   <rect x="276" y="102" width="86" height="53" rx="10" fill="#37405A" stroke="#F4C46C"/><text x="292" y="134" fill="#FFF">MATCH</text>
-  </g>
-  <path d="M138 128H162M249 128H276" stroke="#F4C46C" stroke-width="3" stroke-dasharray="5 4"/><rect x="51" y="172" width="287" height="7" rx="3" fill="#34445D"/><rect x="51" y="172" width="190" height="7" rx="3" fill="#F4C46C" opacity=".8"/>
-  </g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-label="智能求职助手：从岗位研究到简历定制，串联求职流程。">
+<defs>
+ <linearGradient id="back" x1="0" y1="0" x2="1" y2=".7"><stop stop-color="#101a16"/><stop offset=".48" stop-color="#253023"/><stop offset="1" stop-color="#795739"/></linearGradient>
+ <radialGradient id="sun"><stop stop-color="#fce1a6"/><stop offset=".75" stop-color="#f3b96d"/><stop offset="1" stop-color="#e5a35f" stop-opacity="0"/></radialGradient>
+ <linearGradient id="arm" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#647069"/><stop offset=".6" stop-color="#26312c"/><stop offset="1" stop-color="#111714"/></linearGradient>
+ <linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff5df"/><stop offset=".45" stop-color="#c9c5b8"/><stop offset="1" stop-color="#716f68"/></linearGradient>
+ <linearGradient id="lan" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff2bf"/><stop offset=".55" stop-color="#dfab5e"/><stop offset="1" stop-color="#9e652f"/></linearGradient>
+ <filter id="grain"><feTurbulence baseFrequency=".65" numOctaves="2" seed="7" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#050806" flood-opacity=".55"/></filter>
+</defs>
+<rect width="1200" height="410" fill="url(#back)"/>
+<circle cx="1020" cy="103" r="194" fill="url(#sun)" opacity=".9"/>
+<g opacity=".42"><path d="M480 344L574 260L649 295L740 199L819 270L914 156L1010 283L1070 213L1200 313V410H480Z" fill="#5c6952"/><path d="M515 363L633 307L737 346L869 253L956 324L1074 246L1200 306V410H515Z" fill="#2a4336"/></g>
+<path d="M470 391Q660 342 786 377T1030 360Q1132 344 1200 363V410H470Z" fill="#17291f"/>
+<g fill="#192319" opacity=".88">
+<path d="M1094 290L1094 204H1152V290M1081 214H1166L1159 200H1089Z"/><path d="M1085 204L1123 184L1162 204Z"/>
+<path d="M1089 179H1157L1146 163H1097Z"/><path d="M1098 163L1123 146L1148 163Z"/>
+<path d="M1120 152V128" stroke="#1b241b" stroke-width="5"/>
+<path d="M1070 291L1056 320H1180L1166 291Z"/></g>
+<g stroke="#17221a" stroke-width="9" fill="none" opacity=".95">
+<path d="M30 -23Q56 83 36 200"/><path d="M96 -30Q121 65 102 153"/><path d="M1175 -30Q1128 40 1156 120"/></g>
+<g fill="#263a26">
+<path d="M35 46Q100 11 120 20Q69 57 35 46Z"/><path d="M38 77Q-5 35 -11 14Q34 29 38 77Z"/><path d="M90 76Q146 55 164 61Q120 88 90 76Z"/><path d="M80 14Q50 -22 15 -28Q46 14 80 14Z"/>
+<path d="M1098 39Q1055 17 1036 26Q1072 49 1098 39Z"/><path d="M1144 84Q1188 60 1210 65Q1167 98 1144 84Z"/></g>
+<g opacity=".25" fill="#ffdfab"><ellipse cx="962" cy="330" rx="180" ry="28"/><path d="M480 352Q556 311 631 351T758 355" fill="none" stroke="#ffdfab" stroke-width="2"/></g>
+<rect x="0" y="0" width="592" height="410" fill="#0d1713" opacity=".39"/>
+<g font-family="Noto Sans CJK SC, Microsoft YaHei, PingFang SC, sans-serif">
+<text x="66" y="77" font-size="17" letter-spacing="5" fill="#d6b67b">三 两  /  项 目 作 品</text>
+<path d="M68 102H498" stroke="#a57f4b" stroke-width="1.5" opacity=".65"/>
+<text x="65" y="169" font-size="52" font-weight="bold" fill="#f8dfb5">智能求职助手</text>
+<text x="70" y="221" font-size="23" fill="#e3ca9f">从岗位研究到简历定制，串联求职流程。</text>
+<rect x="68" y="265" width="372" height="43" rx="20" fill="#151f1a" stroke="#91744d" opacity=".91"/>
+<text x="92" y="294" font-size="18" letter-spacing="3" fill="#deb982">研究 · 证据 · 简历</text>
+</g>
+<g transform="translate(683 161)" filter="url(#shadow)">
+<rect x="0" y="21" width="118" height="157" rx="7" fill="#b3a07f" stroke="#514536" stroke-width="3" transform="rotate(-12 59 100)"/>
+<rect x="52" y="0" width="151" height="178" rx="9" fill="#f2dfb7" stroke="#715b41" stroke-width="4"/>
+<rect x="72" y="17" width="93" height="10" rx="4" fill="#877354"/><circle cx="98" cy="59" r="21" fill="#b49b72"/><path d="M77 95Q99 76 121 94" fill="#b49b72"/><path d="M132 52H182M132 66H181M72 117H178M72 135H165M72 153H156" fill="none" stroke="#b09a76" stroke-width="6" stroke-linecap="round"/>
+<rect x="175" y="74" width="64" height="48" rx="9" fill="#364134" stroke="#e6b36b" stroke-width="2"/><path d="M189 98L202 110L227 85" stroke="#e8ca89" stroke-width="5" fill="none"/>
+</g>
+<!-- robot character -->
+<g transform="translate(878 183)" filter="url(#shadow)">
+<ellipse cx="88" cy="180" rx="101" ry="19" fill="#121b17" opacity=".8"/>
+<rect x="38" y="102" width="105" height="73" rx="31" fill="url(#arm)" stroke="#a49471" stroke-width="2.5"/>
+<path d="M36 124Q-15 121 10 179L36 177M138 119Q181 123 162 174L138 178" fill="url(#arm)" stroke="#b3a17f" stroke-width="3"/>
+<ellipse cx="27" cy="171" rx="25" ry="12" fill="#454e44" stroke="#a29170"/><ellipse cx="149" cy="171" rx="25" ry="12" fill="#454e44" stroke="#a29170"/>
+<path d="M63 157V182M125 157V182" stroke="#30362d" stroke-width="24" stroke-linecap="round"/>
+<ellipse cx="90" cy="66" rx="82" ry="69" fill="url(#head)" stroke="#282d28" stroke-width="5"/>
+<path d="M44 27Q75 7 128 26Q155 38 157 69Q161 103 134 116Q66 125 35 100Q14 69 44 27Z" fill="#131917"/>
+<path d="M42 48Q69 26 103 24" fill="none" stroke="#789084" stroke-opacity=".36" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="83" cy="72" rx="12" ry="19" fill="#ffe1a1"/><ellipse cx="126" cy="70" rx="10" ry="17" fill="#ffe1a1"/>
+<path d="M90 -2Q95 -32 79 -38M92 -15Q119 -47 135 -33" stroke="#364d2c" stroke-width="5" fill="none"/>
+<path d="M79 -38Q50 -44 57 -28Q70 -24 79 -38ZM135 -33Q148 -57 165 -53Q158 -36 135 -33Z" fill="#6a8448"/>
+<circle cx="15" cy="69" r="15" fill="#4c5246" stroke="#b7a483" stroke-width="4"/><circle cx="15" cy="69" r="6" fill="#c79f60"/>
+</g>
+<!-- paper lantern -->
+<g transform="translate(1127 38)">
+<path d="M-1 -41V0" stroke="#2c241d" stroke-width="4"/>
+<path d="M-19 9Q-28 50 -23 96Q-3 110 17 95Q24 45 18 9Z" fill="url(#lan)" stroke="#563f26" stroke-width="4"/>
+<path d="M-24 24H21M-25 81H20M-10 5Q-23 51 -9 101M9 5Q24 51 9 101" stroke="#936334" fill="none" stroke-width="2" opacity=".7"/>
+<text x="-1" y="67" text-anchor="middle" fill="#56391c" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="bold" font-size="24">职</text>
+<path d="M0 103V126" stroke="#7e4d2e" stroke-width="3"/>
+</g>
+<rect width="1200" height="410" fill="#efc48a" opacity=".075" filter="url(#grain)"/>
+</svg>
