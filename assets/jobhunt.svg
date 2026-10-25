@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="JOBHUNTBOT">
+<defs><linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101A33"/><stop offset="1" stop-color="#1A294D"/></linearGradient><pattern id="p" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#B4C7F6" stroke-width=".5" opacity=".09"/></pattern></defs>
+<rect width="1200" height="310" rx="16" fill="url(#back)"/><rect width="1200" height="310" rx="16" fill="url(#p)"/>
+<rect x="45" y="52" width="4" height="204" rx="2" fill="#F4C46C"/>
+<g font-family="Inter,Arial,sans-serif"><text x="76" y="84" fill="#F4C46C" font-size="15" font-weight="700" letter-spacing="3">03  /  AGENT WORKFLOWS</text><text x="72" y="163" fill="#FFFFFF" font-size="65" font-weight="800" letter-spacing="-2">JOBHUNTBOT</text><text x="76" y="204" fill="#C9D7F1" font-size="21">Research → evidence → applications</text><text x="76" y="264" fill="#8194BB" font-size="14" letter-spacing="2">SANLIANG / SELECTED WORK</text></g>
+<g transform="translate(783 56)">
+  <rect x="28" y="29" width="353" height="175" rx="16" fill="#152743" stroke="#657395"/>
+  <path d="M43 72H365" stroke="#536180"/><circle cx="55" cy="51" r="5" fill="#F4C46C"/><circle cx="74" cy="51" r="5" fill="#6C83BD"/><circle cx="93" cy="51" r="5" fill="#6C83BD"/>
+  <g font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">
+   <rect x="51" y="102" width="86" height="53" rx="10" fill="#37405A" stroke="#F4C46C"/><text x="65" y="134" fill="#FFF">RESEARCH</text>
+   <rect x="163" y="102" width="86" height="53" rx="10" fill="#37405A" stroke="#F4C46C"/><text x="172" y="134" fill="#FFF">EVIDENCE</text>
+   <rect x="276" y="102" width="86" height="53" rx="10" fill="#37405A" stroke="#F4C46C"/><text x="292" y="134" fill="#FFF">MATCH</text>
+  </g>
+  <path d="M138 128H162M249 128H276" stroke="#F4C46C" stroke-width="3" stroke-dasharray="5 4"/><rect x="51" y="172" width="287" height="7" rx="3" fill="#34445D"/><rect x="51" y="172" width="190" height="7" rx="3" fill="#F4C46C" opacity=".8"/>
+  </g></svg>
