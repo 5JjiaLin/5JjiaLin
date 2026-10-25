@@ -6,7 +6,7 @@
 
 关注 **AI 原生产品、Agent 工作流与内容创作工具**。习惯先拆解真实问题，再设计流程，借助 AI Coding 快速构建，并通过测试与使用反馈持续修正。
 
-**我相信：AI 的价值，不在于多会生成，而在于能否把一件事真正做成。**
+**好的产品，是用巧妙的方式，解决真实的问题。**
 
 [从 AI 内容生产开始](https://github.com/5JjiaLin/ai-drama-production-studio) · [探索视频知识理解](https://github.com/5JjiaLin/key-points-ai-video) · [试试求职 Agent](https://github.com/5JjiaLin/JobHuntBot) · [全部公开仓库](https://github.com/5JjiaLin?tab=repositories)
 
