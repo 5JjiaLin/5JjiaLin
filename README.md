@@ -2,7 +2,7 @@
   <img src="assets/hero.svg" alt="三两 Sanliang | AI Product Builder" width="100%" />
 </div>
 
-我是 **三两 · Sanliang**，一个做产品的美术生。
+我是 **三两 · 32**，一个做产品的美术生。
 
 关注 **AI 原生产品、Agent 工作流与内容创作工具**。习惯先拆解真实问题，再设计流程，借助 AI Coding 快速构建，并通过测试与使用反馈持续修正。
 
